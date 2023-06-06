@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science 
-- 📫 How to reach me nurulain.maalim@student.moringaschool.com
+- 📫 How to reach me nurulainabdi15@gmail.com
 
 <!---
 Nurul-ain2022/Nurul-ain2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
